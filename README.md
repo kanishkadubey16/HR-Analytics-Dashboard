@@ -22,10 +22,6 @@ This project is a Tableau dashboard analyzing employee attrition and workforce t
 
 ---
 
-## 📸 Dashboard Preview
-![Dashboard](dashboard.png)
-
-
 ## 🛠 Tools Used
 - Tableau
 - Excel
