@@ -1,11 +1,3 @@
-![HR Dashboard](dashboard.png)
-
-🔗 [View Project on GitHub](https://github.com/kanishkadubey16/HR-Analytics-Dashboard)
-
-
-
-
-
 
 
 # HR Analytics Dashboard 📊
