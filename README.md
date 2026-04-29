@@ -25,12 +25,6 @@ This project is a Tableau dashboard analyzing employee attrition and workforce t
 ## 📸 Dashboard Preview
 ![Dashboard](dashboard.png)
 
----
-
-## 📂 Download Tableau File
-👉 [Download Here](HR_Analytics_Dashboard.twbx)
-
----
 
 ## 🛠 Tools Used
 - Tableau
